@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/ChatApp/">
+    <Project Path="ChatApp/ChatApp.csproj" Id="0104ca19-6971-4dbb-9232-d7f91a47e6e2" />
+  </Folder>
+  <Folder Name="/ChatApp_RAG/">
+    <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
+  </Folder>
+  <Folder Name="/ChatApp_RAG_FuncCalling/">
+    <Project Path="ChatApp_RAG_FuncCalling/ChatApp_RAG_FuncCalling.csproj" />
+  </Folder>
+  <Folder Name="/Embedding/">
+    <Project Path="Embedding/Embedding.csproj" Id="e9b581bb-dfab-43f8-99a1-e65ab6ef30a9" />
+  </Folder>
+  <Folder Name="/FunctionCall/">
+    <Project Path="FunctionCalling/FunctionCall.csproj" Id="2c5beac0-94f3-4b00-9feb-59657d2437cd" />
+  </Folder>
+  <Folder Name="/ImageAnalysis/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="bbc43efd-b10d-4963-ac27-1e7537217794" />
+  </Folder>
+  <Folder Name="/TextCompletion/">
+    <Project Path="TextCompletion/TextCompletion.csproj" />
+  </Folder>
+  <Folder Name="/VectorSearch/">
+    <Project Path="VectorSearch/VectorSearch.csproj" Id="ae2dbd44-0ea9-4a67-b8c8-92786f0a14f3" />
+  </Folder>
+</Solution>
